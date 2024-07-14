@@ -13,8 +13,8 @@ Make sure you have Node.js and npm installed on your machine.
 Clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/coderRaj07/CreditScore_Smart_Contract
+cd CreditScore_Smart_Contract
 npm install
 ```
 
